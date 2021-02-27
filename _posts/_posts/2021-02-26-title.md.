@@ -1,1 +1,3 @@
-If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "Page build failed: Invalid post date".
+The filename starts with the correct date formatting: YYYY-MM-DD
+ The filename includes a post title
+ The filename uses the .md extension
